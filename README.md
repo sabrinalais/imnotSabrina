@@ -1,3 +1,3 @@
-# 🪱 Minhoca dos Commits
+# Frequência de commits:
 
-![Animação da minhoca](worm.gif)
+![Snake animation](https://raw.githubusercontent.com/imnotSabrina/imnotSabrina/output/github-contribution-grid-snake.svg)
