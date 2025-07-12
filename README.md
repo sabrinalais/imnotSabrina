@@ -4,13 +4,34 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/imnotSabrina/imnotSabrina/output/pacman-contribution-graph.svg">
 </picture>
 
-###
+# Hello, World! 👩💻  
+<h3>Sabrina Laís here!</h3> 
+<br>
 
-<p align="left"># Hello, World! 👩💻  <br><br>**Sabrina Laís here!**  <br><br>📍 Piauiense | 💻 **Dev Frontend em formação** | ☕ Movida a café  <br><br>
-### **🎓 Formação Acadêmica**  <br>```bash<br>» IFPI - Análise e Desenvolvimento de Sistemas (Módulo III)  <br>» IFPI - Técnico em Desenvolvimento de Sistemas [Concluído]  <br>» Capacitação Profissional em Sistemas Embarcados  <br>```<br><br>
-### **💡 Hobbies**  <br>```python<br>while True:<br>    listen_music()  # 🎧<br>    read_book()     # 📚 <br>    watch_movie()   # 🎬<br>    debug_sleep()   # 😴 (essential runtime)<br>```<br><br>---  <br><br>`console.log(" Código sem cafeína == undefined");`     <br><br>---  <br><br>*"git commit -m 'Bem-vindo(a) ao meu universo dev! 🚀'"*</p>
+`git commit -m 'Bem-vindo(a) ao meu universo dev! 🚀'`
 
-###
+📍 Piauiense | 💻 <b>Dev Frontend em formação</b> | ☕ Movida a café  
+<br><br>
+
+# 🎓 Formação Acadêmica  
+```bash
+IFPI - Análise e Desenvolvimento de Sistemas (Módulo III)  
+IFPI - Técnico em Desenvolvimento de Sistemas [Concluído]  
+Capacitação Profissional em Sistemas Embarcados  
+```
+<br><br>
+
+# 💡 Hobbies  
+```python
+while True:
+  listen_music()  # 🎧
+  read_book()     # 📚
+  watch_movie()   # 🎬
+  debug_sleep()   # 😴 (essential runtime)<br>
+```
+<br><br>`console.log(" Código sem cafeína == undefined");`   
+
+<br><br>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
