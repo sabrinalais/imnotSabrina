@@ -1,17 +1,19 @@
-permissions:
-  contents: write
 name: Generate Snake Animation
 on:
   schedule:
     - cron: "0 0 * * *"
   workflow_dispatch:
+
+permissions:
+  contents: write
+
 jobs:
   generate:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
         with:
-          fetch-depth: 0  # Importante para evitar conflitos
+          fetch-depth: 0
 
       - name: Generate snake
         uses: Platane/snk@master
@@ -19,11 +21,19 @@ jobs:
           github_user_name: ${{ github.repository_owner }}
           svg_out_path: "output/github-contribution-grid-snake.svg"
 
+      - name: Check generated files
+        run: ls -la output/
+
       - name: Commit and push
         run: |
           git config --global user.name "GitHub Actions"
           git config --global user.email "actions@github.com"
-          git add -A
-          git commit -m "Update snake animation"
-          git pull --rebase origin main
-          git push origin main
+          
+          if git diff --quiet; then
+            echo "Nenhuma alteração detectada. Pulando commit."
+          else
+            git add -A
+            git commit -m "Update snake animation"
+            git pull --rebase origin main
+            git push origin main
+          fi
