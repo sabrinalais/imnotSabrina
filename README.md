@@ -27,7 +27,7 @@
 ###
 
 <div align="center">
-  <a href="https://open.spotify.com/user/Sabrinavieira">
+  <a href="[https://open.spotify.com/user/Sabrinavieira](https://open.spotify.com/playlist/37i9dQZF1E4oAyYponYvIe)">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=b051vtcrarfvt7caicqz4o5e7"  />
   </a>
 </div>
