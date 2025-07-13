@@ -27,10 +27,10 @@ while True:
   listen_music()  # 🎧
   read_book()     # 📚
   watch_movie()   # 🎬
-  debug_sleep()   # 😴 (essential runtime)<br>
+  debug_sleep()   # 😴 (essential runtime)
 ```
-<br><br>`console.log(" Código sem cafeína == undefined");`   
-
+<br><br>
+`console.log(" Código sem cafeína == undefined");`   
 <br><br>
 
 <div align="center">
